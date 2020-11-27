@@ -54,6 +54,16 @@
     color: #333;
 } 
 
+
+.bg-primary a,
+.bg-secondary a,
+.bg-dark a,
+.bg-light a {
+    color: #fff;
+}
+
+
+
 /* text-sizes */
 .lead {
     font-size: 20px;
